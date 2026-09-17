@@ -6,3 +6,7 @@ https://github.com/cuiziteng/Luminance-GS/tree/main/Luminance-GS
 
 It will focus on understanding 3DGS firstly, then implement low light improvements.
 
+The reproduction values have been copied to the repo.
+PSNR: 18.09
+SSIM: 0.877
+LPIPS: 0.193
