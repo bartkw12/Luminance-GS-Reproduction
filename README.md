@@ -121,3 +121,6 @@ First, scene structure is very strong. SSIM above 0.91 indicates that the geomet
 Second, the low-light enhancement seems successful. The scene is bright, recognizable, and contains usable colors rather than looking like the original dark training views.
 
 Third, perceptual quality is strong. LPIPS below the paper's reported value suggests the result is visually convincing rather than merely matching pixels.
+
+### Note
+Next implementation is to reproduce the results with buu, chair and sofa multiple times and see if their is any variance. Record the mean and analyze the results.
