@@ -1,3 +1,5 @@
+*NOTE*: Please see Research-Project-Luminance-GS for status updates.
+
 This project will be implementing the paper:
 ## Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment
 
